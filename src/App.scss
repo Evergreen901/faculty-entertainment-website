@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// @font-face {
+//     font-family: 'Helvetica Neue';
+//     src: url("/assets/fonts/HelveticaNeue.woff") format("woff");
+// }
+
+// @font-face {
+//     font-family: 'Helvetica Neue Bold';
+//     src: url("assets/fonts/Helvetica Neu Bold.ttf") format("truetype");
+// }
+
+@layer components {
+    // .carousel-item {
+    //     display: block;
+    //     opacity: 0;
+
+    //     &.active {
+    //         opacity: 1;
+    //     }
+    // }
+    // .carousel-dark .carousel-indicators [data-bs-target] {
+    //     background: #cfcfcf 0% 0% no-repeat padding-box;
+
+    //     &.active {
+    //         background: transparent linear-gradient(268deg, #0000ff 0%, #29c2e2 100%) 0% 0% no-repeat padding-box;
+    //         border-radius: 10px;
+    //     }
+    // }
+}
